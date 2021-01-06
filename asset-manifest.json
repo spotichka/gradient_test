@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//spotichka.github.io//gradient_test/static/css/main.2e036240.chunk.css",
+    "main.js": "//spotichka.github.io//gradient_test/static/js/main.0020345b.chunk.js",
+    "main.js.map": "//spotichka.github.io//gradient_test/static/js/main.0020345b.chunk.js.map",
+    "runtime-main.js": "//spotichka.github.io//gradient_test/static/js/runtime-main.c9cedb01.js",
+    "runtime-main.js.map": "//spotichka.github.io//gradient_test/static/js/runtime-main.c9cedb01.js.map",
+    "static/js/2.66d388fa.chunk.js": "//spotichka.github.io//gradient_test/static/js/2.66d388fa.chunk.js",
+    "static/js/2.66d388fa.chunk.js.map": "//spotichka.github.io//gradient_test/static/js/2.66d388fa.chunk.js.map",
+    "static/js/3.80f5d6f1.chunk.js": "//spotichka.github.io//gradient_test/static/js/3.80f5d6f1.chunk.js",
+    "static/js/3.80f5d6f1.chunk.js.map": "//spotichka.github.io//gradient_test/static/js/3.80f5d6f1.chunk.js.map",
+    "index.html": "//spotichka.github.io//gradient_test/index.html",
+    "static/css/main.2e036240.chunk.css.map": "//spotichka.github.io//gradient_test/static/css/main.2e036240.chunk.css.map",
+    "static/js/2.66d388fa.chunk.js.LICENSE.txt": "//spotichka.github.io//gradient_test/static/js/2.66d388fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9cedb01.js",
+    "static/js/2.66d388fa.chunk.js",
+    "static/css/main.2e036240.chunk.css",
+    "static/js/main.0020345b.chunk.js"
+  ]
+}
